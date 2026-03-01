@@ -1,1 +1,1 @@
-# Sistema-de-Registro-y-Validaci-n-de-Estudiantes-en-Eventos-Acad-micos
+# Sistema-de-Registro-y-Validacion-de-Estudiantes-en-Eventos-Academicos
